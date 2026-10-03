@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>City__c</fullName>
+    <label>City</label>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Hyderabad</fullName><default>false</default></value><value><fullName>Mumbai</fullName><default>false</default></value><value><fullName>Delhi</fullName><default>false</default></value><value><fullName>Bangalore</fullName><default>false</default></value><value><fullName>Chennai</fullName><default>false</default></value><value><fullName>Alaminos</fullName><default>false</default></value><value><fullName>Angeles City</fullName><default>false</default></value><value><fullName>Palayan</fullName><default>false</default></value><value><fullName>Quezon City</fullName><default>false</default></value><value><fullName>San Juan</fullName><default>false</default></value><value><fullName>Riyadh</fullName><default>false</default></value><value><fullName>Jeddah</fullName><default>false</default></value><value><fullName>Tayma</fullName><default>false</default></value><value><fullName>Dammam</fullName><default>false</default></value><value><fullName>Medina</fullName><default>false</default></value><value><fullName>New York</fullName><default>false</default></value><value><fullName>Los Angeles</fullName><default>false</default></value><value><fullName>Chicago</fullName><default>false</default></value><value><fullName>Houston</fullName><default>false</default></value><value><fullName>Columbus</fullName><default>false</default></value><value><fullName>Geneva</fullName><default>false</default></value><value><fullName>Basel</fullName><default>false</default></value><value><fullName>Lausanne</fullName><default>false</default></value><value><fullName>Bern</fullName><default>false</default></value><value><fullName>Lucerne</fullName><default>false</default></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
